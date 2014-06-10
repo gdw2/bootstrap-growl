@@ -6,10 +6,8 @@
   "homepage": "http://ifightcrime.github.io/bootstrap-growl",
   "author": { "name": "Nick Larson" },
   "main": "jquery.bootstrap-growl.js",
-  "repositories": [
-    {
+  "repository": {
       "type": "git",
       "url": "http://github.com/ifightcrime/bootstrap-growl"
-    }
-  ]
+  }
 }
